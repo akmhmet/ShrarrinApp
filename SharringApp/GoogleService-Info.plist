@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>618982440917-0mhcgpeod0ql3tvkljabk9vv4lhk205g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.618982440917-0mhcgpeod0ql3tvkljabk9vv4lhk205g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEpQuKIU6b77MOnjQOZjCb_7NEd6wx5MA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>618982440917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mehmetak.SharingApp</string>
+	<key>PROJECT_ID</key>
+	<string>sharingapp-29767</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sharingapp-29767.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:618982440917:ios:4a64bb8dc625a1c3bec75c</string>
+</dict>
+</plist>

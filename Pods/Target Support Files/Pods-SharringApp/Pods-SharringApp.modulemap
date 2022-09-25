@@ -1,0 +1,6 @@
+framework module Pods_SharringApp {
+  umbrella header "Pods-SharringApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
